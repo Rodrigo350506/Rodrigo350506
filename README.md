@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Rodrigo Carvalho 👋
+##### I'm a student programmer, I'm still very new in this life but I'm willing to learn.
 
+
+### Skill Set 💪
+##### These are the programming languages and frameworks that I have some mastery in working.
+
+
+### Programming Languages.: 
+##### 
+
+
+### Frameworks and Libraries.: 
+##### 
 <!--
 **Rodrigo350506/Rodrigo350506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
