@@ -11,23 +11,23 @@
     <thead>
         <tr>
             <th><a target="_blank" rel="noopener noreferrer"
-                    href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img
+                    href="https://marquesfernandes.com/wp-content/uploads/2020/08/kwi4bvgzths31.jpg"><img
                         title="Python" alt="Python" width="40px"
-                        src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+                        src="https://marquesfernandes.com/wp-content/uploads/2020/08/kwi4bvgzths31.jpg"
                         style="max-width: 100%;"></a></th>
             <th><a target="_blank" rel="noopener noreferrer"
-                    href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img
+                    href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"><img
                         alt="JS" title="JavaScript" width="40px"
-                        src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
                         style="max-width: 100%;"></a></th>
             <th><a target="_blank" rel="noopener noreferrer"
-                    href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><img
-                        alt="PHP" title="PHP" width="40px"
-                        src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+                    href="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"><img
+                        alt="Java" title="Java" width="40px"
+                        src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png"
                         style="max-width: 100%;"></a></th>
             <th><a target="_blank" rel="noopener noreferrer"
-                    href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"><img title="C" alt="C"
-                        width="40px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+                    href="https://logospng.org/download/php/logo-php-256.png"><img title="C" alt="C"
+                        width="40px" src="https://logospng.org/download/php/logo-php-256.png"
                         style="max-width: 100%;"></a></th>
         </tr>
     </thead>
