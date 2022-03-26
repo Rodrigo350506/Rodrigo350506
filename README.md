@@ -1,5 +1,5 @@
 ### Hi there, I'm Rodrigo Carvalho 👋
-##### I'm a student programmer, I'm still very new in this life but I'm willing to learn.
+<p>I'm a student programmer, I'm still very new in this life but I'm willing to learn.</p>
 
 
 ### Skill Set 💪
@@ -35,18 +35,18 @@
 
 
 ### Frameworks and Libraries.:
-#####
-<!--
-**Rodrigo350506/Rodrigo350506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <thead>
+        <tr>
+            <th><a target="_blank" rel="noopener noreferrer"
+                    href="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"><img
+                        title="Flask" alt="Flask" width="40px"
+                        src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png"
+                        style="max-width: 100%;"></a></th>
+            <th><a target="_blank" rel="noopener noreferrer"
+                    href="https://hakin9.org/wp-content/uploads/2019/08/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg"><img title="C" alt="C"
+                        width="40px" src="https://hakin9.org/wp-content/uploads/2019/08/connect-a-flask-app-to-a-mysql-database-with-sqlalchemy-and-pymysql.jpg"
+                        style="max-width: 100%;"></a></th>
+        </tr>
+    </thead>
+</table>
